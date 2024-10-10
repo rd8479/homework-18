@@ -2,3 +2,15 @@
 .container-x1{
     background-color: var(--bs-gray-800);
 }
+.header__image{
+    margin-left: 40px;
+    flex-grow: 9;
+}
+.header__ul{
+    margin-left: 40px;
+}
+.clink{
+    color: var( --bs-primary-bg-subtle);
+    font-size: 16px;
+    text-transform:uppercase ;
+}
