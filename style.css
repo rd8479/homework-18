@@ -64,3 +64,16 @@
     font-family: Arial, Helvetica, sans-serif;
     text-transform: capitalize;
 }
+.footer{
+    background-color:var(--bs-gray-800);
+    color: var( --bs-primary-bg-subtle);
+}
+.shape{
+    border-top-right-radius: 100000px;
+    border-bottom-right-radius: 100000px;
+    background-color: gray;
+    width: 100px;
+    height: 50px;
+    align-self: center;
+    text-transform: uppercase;
+}
